@@ -11,21 +11,21 @@ namespace Assignment_pattern
     {
         static void Main(string[] args)
         {
-            //Square_Hollow();
-            //NumberTrianglePat();
-            //Number_increasing_Pyramid();
-            //Number_increasing_Reverse_Pyramid();
-            //Number_Pyramid();
-            //Zero_One_triangle();
-            //Palindrome_Triangle();
-            //Rhombus_Pattern();
-            //Diamond_Star();
-            //Mirror_Image_Triangle();
-            //Hollow_Triangle();
-            //Hollow_Rerverse_Triangle();
-            //Hollow_Daimond_Triangle();
+            Square_Hollow();
+            NumberTrianglePat();
+            Number_increasing_Pyramid();
+            Number_increasing_Reverse_Pyramid();
+            Number_Pyramid();
+            Zero_One_triangle();
+            Palindrome_Triangle();
+            Rhombus_Pattern();
+            Diamond_Star();
+            Mirror_Image_Triangle();
+            Hollow_Triangle();
+            Hollow_Rerverse_Triangle();
+            Hollow_Daimond_Triangle();
             Hollow_HourGlass();
-            //Pascal_pattern();
+            Pascal_pattern();
 
         }
 
